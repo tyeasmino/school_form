@@ -1,0 +1,19 @@
+.background{
+	background-color: skyblue;
+}
+
+.student {
+	color: blue;
+	text-decoration: underline;
+	padding-top: 2px;
+	padding-left: 150px;
+}
+
+.one {
+	border: dashed;
+	padding: 30px;
+	border-color: black;
+	font-size: 20px;
+	color: white;
+}
+
